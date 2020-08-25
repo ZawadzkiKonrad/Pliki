@@ -1,0 +1,13 @@
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\obj\Debug\netcoreapp3.1\Pliki.csprojAssemblyReference.cache
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\obj\Debug\netcoreapp3.1\Pliki.AssemblyInfoInputs.cache
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\obj\Debug\netcoreapp3.1\Pliki.AssemblyInfo.cs
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\obj\Debug\netcoreapp3.1\Pliki.csproj.CoreCompileInputs.cache
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\bin\Debug\netcoreapp3.1\Pliki.exe
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\bin\Debug\netcoreapp3.1\Pliki.deps.json
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\bin\Debug\netcoreapp3.1\Pliki.runtimeconfig.json
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\bin\Debug\netcoreapp3.1\Pliki.runtimeconfig.dev.json
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\bin\Debug\netcoreapp3.1\Pliki.dll
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\bin\Debug\netcoreapp3.1\Pliki.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\obj\Debug\netcoreapp3.1\Pliki.dll
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\obj\Debug\netcoreapp3.1\Pliki.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\web\kursASP.Net\Pliki\Pliki\obj\Debug\netcoreapp3.1\Pliki.genruntimeconfig.cache
